@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "/.netlify/functions/logger"
+  to = "/.netlify/functions/ip-logger"
   status = 200
 
 [[headers]]
